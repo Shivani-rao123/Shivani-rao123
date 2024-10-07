@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shivani.19sb606@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am not Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

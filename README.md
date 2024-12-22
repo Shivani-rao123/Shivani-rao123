@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NEXT ,MERN,DSA,Blockchain**
 
-- 💬 Ask me about **MERN,REACT**
+- 💬 Ask me about **MERN, REACT**
 
 - 📫 How to reach me **shivani.19sb606@gmail.com**
 

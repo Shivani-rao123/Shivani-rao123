@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I am not Funny**
 
 <h3 align="left">Connect with me :</h3>
-<h2>PortFolio: https://new-portfolio-livid-rho.vercel.app/ </h2>
+<h3>PortFolio: https://new-portfolio-livid-rho.vercel.app/ </h3>
 <p align="left">
 <a href="https://twitter.com/shivani b s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivani b s" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shivani b s sb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivani b s sb" height="30" width="40" /></a>

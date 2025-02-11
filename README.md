@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Tweet generator ai**
 
-- 🌱 I’m currently learning **NEXT, MERN,DSA,Blockchain**
+- 🌱 I’m currently learning **NEXT, MERN ,DSA,Blockchain**
 
 - 💬 Ask me about **MERN, REACT**
 
